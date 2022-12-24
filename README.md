@@ -7,7 +7,7 @@ The repository containing portfolio of Data Science Projects completed, For Self
 
 ## Projects
 
-### [Stock Prediction Using Prophet](https://github.com/HarshMistry1/Data_science_projects/tree/master/Stock%20prediction%20using%20streamlit)
+### [Stock Prediction Using Prophet](https://github.com/HarshMistry1/Data_science_portfolio_projects/tree/master/Stock%20Prediction%20using%20Prophet)
 **Goal** :- *The main aim, to create this one is to visualize and forecasting of finance data more with more Ease and Faster.*
 - In this project, we can analyze and forecast the data from Yahoo Finance.
 - For forecasting purpose, we have used Prophet and for visualization purpose plotly has been used.
@@ -15,7 +15,7 @@ The repository containing portfolio of Data Science Projects completed, For Self
 
 **Contributed by** :- [Patrick Loeber (Python Engineer)](https://www.python-engineer.com/)
 
-### [Oxford Pet Image Segmentation Using Neural Network and U-Net](https://github.com/HarshMistry1/Data_science_projects/tree/master/Image%20Segmentation%20Using%20U-Net)
+### [Oxford Pet Image Segmentation Using Neural Network and U-Net](https://github.com/HarshMistry1/Data_science_portfolio_projects/tree/master/Image%20Segmentation%20Using%20U-Net)
 **Goal** :- *The intention to make this project is, mainly for medical image segmentation for MRI Images, Cancer related, To look for any spots in X-Rays and many more.*
 - By this project, We can Create or find the Object or Animal and we can Mask them.
 - For neural network, Tensorflow has been used and Pix2Pix Model has used for segmentation purpose.
@@ -24,7 +24,7 @@ The repository containing portfolio of Data Science Projects completed, For Self
 
 **Contributed by** :- [Aman Kharwal (The Clever Programmer)](https://thecleverprogrammer.com/)
 
-### [Handwritten Digits Genration Using GAN](https://github.com/HarshMistry1/Data_science_projects/tree/master/Handwritten%20Digits%20Generation%20Using%20G.A.N)
+### [Handwritten Digits Genration Using GAN](https://github.com/HarshMistry1/Data_science_portfolio_projects/tree/master/Handwritten%20Digits%20Generation%20Using%20G.A.N)
 **Goal** - *By making this project, the main goal was to acheive more accurate results to get better and random generated images to helping Photography industry, Medical Application, Detect the image real images to compare the generated results to find the right one.*
 - GAN (Generative Adversarial Network) is very interesting and by using this project we can generate random digits.
 - In GAN, There are main two components. The one is generator and the one is discriminator.
