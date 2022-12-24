@@ -26,27 +26,23 @@ The repository containing portfolio of Data Science Projects completed, For Self
 
 ### [Handwritten Digits Genration Using GAN](https://github.com/HarshMistry1/Data_science_projects/tree/master/Handwritten%20Digits%20Generation%20Using%20G.A.N)
 **Goal** - *By making this project, the main goal was to acheive more accurate results to get better and random generated images to helping Photography industry, Medical Application, Detect the image real images to compare the generated results to find the right one.*
-- GAN (Generative Adversarial Network) is very interesting and by using this project we can generate random digits by
+- GAN (Generative Adversarial Network) is very interesting and by using this project we can generate random digits.
 - In GAN, There are main two components. The one is generator and the one is discriminator.
 - We have made customised generator and discriminator using tensorflow.
 - Here, we have only trained this model at 40 epochs However, For better results, it atleast requires 2000 Epochs.
 
 **Contributed by** :- [Datacamp](https://www.datacamp.com/)
+
 ## Acknowledgements
 
  - [Krish Naik](https://www.youtube.com/@krishnaik06)
  - [Dhaval Patel (Code Basics)](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
- - [Nitish Singh (Campus X)](https://www.youtube.com/@campusx-official)
+ - [Nitish Singh](https://www.youtube.com/@campusx-official)
  - [Free Code Camp](https://www.youtube.com/c/freecodecamp/videos)
  - [Patrick Loeber (Python Engineer)](https://www.python-engineer.com/)
  - [Aman Kharwal (The Clever Programmer)](https://thecleverprogrammer.com/)
 
 Their contribution had really helped me alot.
 
-![](hhttps://github.com/HarshMistry1/Data_science_projects/blob/master/stock_pred_and_forecasting.gif)
-
-
 ## Feedback
-
 If you have any feedback, please reach out to me at Harshsutharinfo@gmail.com.
-
