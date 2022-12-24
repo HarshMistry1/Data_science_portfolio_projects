@@ -36,10 +36,10 @@ The repository containing portfolio of Data Science Projects completed, For Self
 
  - [Krish Naik](https://www.youtube.com/@krishnaik06)
  - [Dhaval Patel (Code Basics)](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
+ - [Nitish Singh (Campus X)](https://www.youtube.com/@campusx-official)
  - [Free Code Camp](https://www.youtube.com/c/freecodecamp/videos)
  - [Patrick Loeber (Python Engineer)](https://www.python-engineer.com/)
  - [Aman Kharwal (The Clever Programmer)](https://thecleverprogrammer.com/)
- - [How to write a Good ](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 Their contribution had really helped me alot.
 
