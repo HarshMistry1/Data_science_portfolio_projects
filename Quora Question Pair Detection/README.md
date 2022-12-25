@@ -30,7 +30,7 @@ Identify which questions asked on Quora are duplicates of questions that have al
 
 ## Web App Link
 
-![Visit the link](ec2-3-75-235-60.eu-central-1.compute.amazonaws.com:8501)
+[Visit the link](ec2-3-75-235-60.eu-central-1.compute.amazonaws.com:8501)
 ## Technical Aspect
 
 
