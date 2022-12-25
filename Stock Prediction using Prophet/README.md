@@ -19,15 +19,15 @@ This project follows by a data visualization and forecasting using Prophet and f
 ## Preview
 <<<<<<< HEAD
 
-![](https://github.com/HarshMistry1/Data_science_projects/blob/master/Stock%20Prediction%20using%20Prophet/stock_pred_img_front_1.jpg)
-![](https://github.com/HarshMistry1/Data_science_projects/blob/master/Stock%20Prediction%20using%20Prophet/stock_pred_img_2.jpg)
-![](https://github.com/HarshMistry1/Data_science_projects/blob/master/Stock%20Prediction%20using%20Prophet/stock_pred_img_3.jpg)
+![](https://github.com/HarshMistry1/Data_science_portfolio_projects/blob/master/Stock%20Prediction%20using%20Prophet/stock_pred_img_front_1.jpg)
+![](https://github.com/HarshMistry1/Data_science_portfolio_projects/blob/master/Stock%20Prediction%20using%20Prophet/stock_pred_img_2.jpg)
+![](https://github.com/HarshMistry1/Data_science_portfolio_projects/blob/master/Stock%20Prediction%20using%20Prophet/stock_pred_img_3.jpg)
 =======
 >>>>>>> dc5a70b (Files Updated)
 
-![](https://github.com/HarshMistry1/Data_science_projects/blob/master/Stock%20Prediction%20using%20Prophet/stock_pred_img_front_1.jpg)
-![](https://github.com/HarshMistry1/Data_science_projects/blob/master/Stock%20Prediction%20using%20Prophet/stock_pred_img_2.jpg)
-![](https://github.com/HarshMistry1/Data_science_projects/blob/master/Stock%20Prediction%20using%20Prophet/stock_pred_img_3.jpg)
+![](https://github.com/HarshMistry1/Data_science_portfolio_projects/blob/master/Stock%20Prediction%20using%20Prophet/stock_pred_img_front_1.jpg)
+![](https://github.com/HarshMistry1/Data_science_portfolio_projects/blob/master/Stock%20Prediction%20using%20Prophet/stock_pred_img_2.jpg)
+![](https://github.com/HarshMistry1/Data_science_portfolio_projects/blob/master/Stock%20Prediction%20using%20Prophet/stock_pred_img_3.jpg)
 
 ## Features
 
