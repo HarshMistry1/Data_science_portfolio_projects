@@ -3,9 +3,6 @@
 
 Built an End to end web application to find out whether the given qoura questions are duplicated or not.
 
-
-
-
 ## Table Of Contents
 
 * [Overview](#overview)
@@ -33,7 +30,7 @@ Identify which questions asked on Quora are duplicates of questions that have al
 
 ## Web App Link
 
-[Visit the link](ec2-3-75-235-60.eu-central-1.compute.amazonaws.com:8501)
+![Visit the link](ec2-3-75-235-60.eu-central-1.compute.amazonaws.com:8501)
 ## Technical Aspect
 
 
@@ -44,5 +41,5 @@ Identify which questions asked on Quora are duplicates of questions that have al
 ## Tech Stack
 
 <img target="_blank" src="https://github.com/HarshMistry1/Data_science_portfolio_projects/blob/master/Quora%20Question%20Pair%20Detection/Pandas_logo.png" width=170>
-<img target="_blank" src="https://github.com/HarshMistry1/Data_science_portfolio_projects/blob/master/Quora%20Question%20Pair%20Detection/Plotly_logo.png" width=170>
-<img target="_blank" src="https://github.com/HarshMistry1/Data_science_portfolio_projects/blob/master/Quora%20Question%20Pair%20Detection/streamlit_logo.png" width=170>
+<img target="_blank" src="https://github.com/HarshMistry1/Data_science_portfolio_projects/blob/master/Quora%20Question%20Pair%20Detection/Plotly-logo.png" width=170>
+<img target="_blank" src="https://github.com/HarshMistry1/Data_science_portfolio_projects/blob/master/Quora%20Question%20Pair%20Detection/streamlit-logo.png" width=170>
